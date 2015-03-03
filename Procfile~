@@ -1,1 +1,1 @@
-web: nodejs index.ejs
+web: ./bin/www
