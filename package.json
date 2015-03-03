@@ -13,6 +13,6 @@
     "static-favicon": "~1.0.0"
   },
   "engines": {
-  "nodejs": "0.10.25"
+  "node": "0.10.x"
   }
 }
